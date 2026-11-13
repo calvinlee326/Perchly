@@ -12,6 +12,8 @@
   Apple Silicon (M1 or later) · macOS 14 Sonoma or later
 </p>
 
+https://github.com/user-attachments/assets/10c15eae-8c69-4474-97de-fb53afb1a8cd
+
 [English](#install) · [繁體中文](#安裝方式)
 
 ---
